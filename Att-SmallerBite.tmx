@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+    <header creationtool="MPTMXPort" adminlang="EN-US" datatype="unknown" creationtoolversion="1.0" segtype="sentence" srclang="*all*" o-tmf="undefined" />
+
+           <body>
+          <tu srclang="EN" tuid="11" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Cell Phones</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Teléfonos móviles</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="12" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>High Speed Internet</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Internet de alta velocidad</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="13" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Digital TV</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Televisión digital</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="14" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Home Phone</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Teléfono residencial</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="15" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Bundles</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Paquetes</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="16" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Wireless</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Móvil</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="18" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>LTE</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>LTE</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="19" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Pages Don't Look Right?</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>¿No ves correctamente las páginas?</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="20" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>For a better online experience, we recommend updating your current browser or using one of these:</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Para mejorar tu experiencia en línea, te recomendamos actualizar tu navegador actual o usar uno de estos:</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="21" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Internet Explorer Browser will open in a new window or tab</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Internet Explorer se abrirá en una nueva ventana o pestaña</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="22" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Chrome Browser will open in a new window or tab</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Chrome se abrirá en nueva ventana o pestaña</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="23" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Firefox Browser will open in a new window or tab</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Firefox se abrirá en nueva ventana o pestaña</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="24" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Safari Browser will open in a new window or tab</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Safari se abrirá en nueva ventana o pestaña</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="25" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Close</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Cerrar</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="26" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Skip navigation</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Saltar navegación</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="27" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Personal</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Personal</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="28" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>att.com</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>att.com</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="29" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>att.net</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>att.net</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="30" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>uverse.com</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>uverse.com</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="31" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Digital Life</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Digital Life</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="32" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Business</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Empresas</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="33" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Small Business</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Pequeñas empresas</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="34" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Enterprise Business</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Grandes empresas</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="35" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Wholesale</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Servicios mayoristas</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="36" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>Government</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Gobierno</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        <tu srclang="EN" tuid="37" creationdate="20140613T185754Z">
+            <tuv xml:lang="EN">
+                <seg>About {[&amp;0:548]}</seg>
+            </tuv>
+            <tuv xml:lang="ES">
+                <seg>Acerca de {[&amp;0:548]}</seg>
+            </tuv>
+            <prop type="x-origin">Full translation</prop>
+        </tu>
+        </body>
+</tmx>

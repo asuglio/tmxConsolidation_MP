@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE tmx SYSTEM "tmx14.dtd">
+<tmx version="1.4">
+    <header segtype="sentence" creationtoolversion="1.0" srclang="*all*" creationtool="MPTMXPort" datatype="unknown" adminlang="EN-US" o-tmf="undefined" />
+
+    <body>
+        <tu srclang="EN" tuid="1">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>Unlimited Wireless Service - MetroPCS</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081203T225858Z">
+                <seg>Servicio celular sin límites - MetroPCS</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="2">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>metropcs</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081203T225902Z">
+                <seg>metropcs</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="3">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>metro pcs</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081203T225905Z">
+                <seg>metro pcs</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="4">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>unlimited wireless service</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081203T225924Z">
+                <seg>servicio celular sin límites</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="5">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>MetroPCS provides the freedom to enjoy flexible wireless calling with no signed contracts and truly unlimited local and long-distance service.</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081203T230035Z">
+                <seg>MetroPCS proporciona la libertad de disfrutar de llamadas celulares sin contrato y servicio local y de larga distancia verdaderamente sin límites.</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="6">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>Pay by the month, not by the minute.</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081203T230049Z">
+                <seg>Paga por mes, no por minuto.</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="7">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>MetroPCS Logo</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T225319Z">
+                <seg>Logotipo de MetroPCS</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="8">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>MetroPCS</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T225323Z">
+                <seg>MetroPCS</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="9">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>Home</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T225336Z">
+                <seg>Inicio</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="10">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>Investor Relations</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T225627Z">
+                <seg>Inversionistas</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="11">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>Store Locator</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T225637Z">
+                <seg>Localizador de tiendas</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="12">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>contact</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T230901Z">
+                <seg>contacto</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="14">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>Search Button</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T231004Z">
+                <seg>Botón de búsqueda</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="15">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>Phones</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T231015Z">
+                <seg>Teléfonos</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="16">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>Plans</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T231021Z">
+                <seg>Planes</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="17">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>Coverage</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T231029Z">
+                <seg>Cobertura</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="18">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>Features</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T231036Z">
+                <seg>Funciones</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="19">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>Downloads</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T231043Z">
+                <seg>Descargas</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="20">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>Support</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T231051Z">
+                <seg>Asistencia</seg>
+            </tuv>
+        </tu>
+        <tu srclang="EN" tuid="21">
+            <prop type="x-origin">Full translation</prop>
+            <tuv xml:lang="EN">
+                <seg>The MetroPromise</seg>
+            </tuv>
+            <tuv xml:lang="ES" creationdate="20081202T231102Z">
+                <seg>La promesa Metro</seg>
+            </tuv>
+        </tu>
+    </body>
+</tmx>

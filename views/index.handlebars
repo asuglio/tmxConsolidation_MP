@@ -1,0 +1,53 @@
+
+
+<div>
+    <table class="table table-striped" >
+        <tr>
+            <th>Segment id</th>
+            <th>Segment English</th>
+            <th>Segment Spanish</th>
+        </tr>
+        {{#each seg}}
+        <tr>
+            <td>{{this.segID}}</td>
+            <td>{{this.segEN}}</td>
+            <td>{{this.segES}}</td>
+            {{/each}}
+        </tr>
+    </table>
+</div>
+
+
+
+<style>
+*{
+	padding: 0;
+	margin: 0;
+}
+.jumbotron{
+	background-color: #3B5998; 
+	color: white;
+}
+/*table,
+td,
+th {
+    zoom: 1.2;
+    border-spacing: 0px;
+}
+
+table,
+th,
+td {
+    border: 1px solid black;
+}
+
+tr:nth-child(even) {
+    background: #fff;
+}
+
+tr:nth-child(odd) {
+    background: #edf3ff
+}*/
+
+
+</style>
