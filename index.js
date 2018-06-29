@@ -22,7 +22,7 @@ app.set("view engine", "handlebars");
 
 app.get("/", function(req, res) {
    // console.log("server firing");
-    connection.query("SELECT * from segments", function(err, data) {
+    connection.query("SELECT * FROM `tmx-alex`.`tmx-test`", function(err, data) {
         if (err) throw err;
         res.render("index", { seg: data });
     });
